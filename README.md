@@ -18,7 +18,7 @@ Kaggle Notebook: https://www.kaggle.com/merburakakgn/dogus-datathon-n11-text-cla
 &nbsp;
 
 ### Data
-&nbsp;  In the dataset, 102264 products are belonging to 177 categories. Data is split into train and test sets by 80:20 ratio. There are 4 features in the dataset: 
+&nbsp;  In the dataset, there 102264 products are belonging to 177 categories. Data is split into train and test sets by 80:20 ratio. There are 4 features in the dataset: 
 - ID  
 - TITLE  
 - DESCRIPTION  
