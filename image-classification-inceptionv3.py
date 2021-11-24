@@ -84,14 +84,14 @@ print_imgs(train_dir)
 # Data generators
 # For the train set
 train_datagen = ImageDataGenerator(rescale=1/255)
-test_datagen = ImageDataGenerator(rescale=1/255)
-
-
-# For the validation set
 train_generator = train_datagen.flow_from_directory(train_dir,
                                                     batch_size=batch_size,
                                                     class_mode='categorical',
                                                     target_size=(img_size, img_size))
+
+
+# For the validation set
+test_datagen = ImageDataGenerator(rescale=1/255)
 validation_generator = test_datagen.flow_from_directory(validation_dir,
                                                         batch_size=batch_size,
                                                         class_mode='categorical',
