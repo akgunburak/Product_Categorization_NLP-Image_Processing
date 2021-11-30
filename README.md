@@ -1,6 +1,7 @@
 # Dogus Datathon 2021 - n11.com Product Categorization Using NLP Techniques
 
-Kaggle Notebook: https://www.kaggle.com/merburakakgn/dogus-datathon-n11-text-classification
+Kaggle Notebook: https://www.kaggle.com/merburakakgn/dogus-datathon-n11-text-classification  
+Presentation: https://youtu.be/RMb2_4bSKoM?list=PLYlK1OaWktRZ01oowjCvzFy7gTVSz9ezL&t=3715
 
 &nbsp;
 
